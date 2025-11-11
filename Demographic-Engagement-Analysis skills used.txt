@@ -1,0 +1,20 @@
+> Skills & Knowledge Demonstrated
+
+*File handling (reading CSV line-by-line)
+* Data filtering using multiple conditions
+* Use of Python data structures
+
+Lists, sets, numeric lists for statistics
+* Mathematical & Statistical computations
+
+Mean, standard deviation, Pearson correlation
+* Conditional logic for classification
+
+Urban vs rural vs suburban
+* String processing
+
+Case-insensitive comparisons, type conversion
+* Efficient data aggregation
+* Tracking engagement by region
+* Tracking unique countries
+* Filtering qualified users
